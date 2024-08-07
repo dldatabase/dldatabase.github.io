@@ -59,7 +59,7 @@ function watermark(svg) {
     
     if ( watermark_text ) {
         wm.append("text")
-            .attrs({x:0, y:70, "font-size":28, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:0, y:80, "font-size":28, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text);
         wm.append("text")
             .attrs({x:290, y:255, "font-size":18, "text-anchor":"middle", "class":"graph-name"})
