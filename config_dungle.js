@@ -17,7 +17,7 @@ var init_phones = [""],                             // Optional. Which graphs to
       alt_tutorial = true,                         // Display a configurable frequency response guide below the graph
       site_url = 'index.html',                              // URL of your graph "homepage"
       share_url = false,                             // If true, enables shareable URLs
-      watermark_text = "DungLe-graph.github.io",                 // Optional. Watermark appears behind graphs
+      watermark_text = "",                 // Optional. Watermark appears behind graphs
       watermark_text2 = null,
       watermark_image_url = "img/dunglelogo.png",   // Optional. If image file is in same directory as config, can be just the filename
       page_title = "Dung Le",                     // Optional. Appended to the page title if share URLs are enabled
@@ -65,6 +65,12 @@ function watermark(svg) {
             .attrs({x:290, y:255, "font-size":18, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text2);	
     }
+	 // Extra flair
+    svg.append("g")
+        .attr("opacity",0.2)
+        .append("text")
+        .attrs({x:765, y:314, "font-size":10, "text-anchor":"end", "class":"site_name"})
+        .text("dungle-graph.github.io/");
 }
 
 // If alt_header is enabled, these are the items added to the header
