@@ -1,0 +1,245 @@
+
+[
+    {
+        "name":   "7hz","phones": [{"name":"Timeless","file":"7hz Timeless"}]
+    },
+    {
+        "name":   "Audiosense","phones": [
+            {"name":"AQ0","file":"Audiosense AQ0"},
+            {"name":"DT200","file":"Audiosense DT200"}]
+    },
+    {
+        "name":   "BFB","phones": [{"name":"Lark","file":"BFB Lark",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+    {
+        "name":   "Blon","phones": [{"name":"BL-03","file":"Blon BL03 cp100"}]
+    },
+    {
+        "name":   "BQEYZ","phones": [
+            {"name":"Wind","file":"BQEYZ Wind"},
+            {"name":"Cloud","file":["BQEYZ Cloud","BQEYZ Cloud deep"],
+             "suffix":["(8k peak)","(Deep fit)"]
+            }
+        ]
+    },
+    {
+        "name":   "Celest","phones": [{"name":"Wyvern Abyss","file":"Wyvern Abyss"}]
+    },
+    {
+        "name":   "Craft Ears","phones": [{"name":"Aurum","file":"Aurum"}]
+    },
+    {
+        "name":   "CVJ","phones": [{"name":"KE-S","file":"CVJ KE-S"}]
+    },
+    {
+        "name":   "Dunu","phones": [
+            {"name":"SA6 MK2","file":["Dunu SA6 MK2 on","Dunu SA6 MK2 off"],
+             "suffix":["(ON)","(OFF)"]},
+            {"name":"Davinci","file":["Dunu Davinci","Dunu Davinci 75ohm","Dunu Davinci taped+500"],
+             "suffix":["","75ohm Adapter","tape mod+500 mesh"]}
+        ]
+    },
+    {
+        "name":   "EPZ","phones": [
+            {"name":"530","file":"EPZ 530"},
+            {"name":"K5","file":"EPZ K5"},
+            {"name":"Q1 Pro","file":"EPZ Q1 Pro"},
+            {"name":"Q5","file":"EPZ Q5"}]
+    },
+    {
+        "name":   "Final","phones": [{"name":"A4000","file":"Final A4000"}]
+    },
+    {
+        "name":   "Hidizs",
+        "phones": [
+            {"name":"MP145","file":["Hidizs MP145 Rosegold","Hidizs MP145 Red","Hidizs MP145 Silver","Hidizs MP145 noscrew","Hidizs MP145 nofoam"],
+             "suffix":["(Rosegold/Balanced)","(Red/Low freq)","(Silver/High freq)","noscrew","nofoam + rosegold"]},
+            {"name":"MP145 New batch","file":["MP145 Rosegold New","MP145 Silver New","MP145 no filter New"],
+             "suffix":["(Rosegold/Balanced)","(Silver/High freq)","noscrew"]} 
+        ]
+    },
+    {
+        "name":   "HiFri","phones": [
+            {"name":"Barcelona","file":"Hi-fri Barcelona"},
+            {"name":"Barcelona v2 clear","file":"Hi-fri Barcelona v2 clear"},
+            {"name":"Barcelona v2 purple","file":"Hi-fri Barcelona v2 purple"}]
+    },
+    {
+        "name":   "Ikko","phones": [
+            {"name":"OH2","file":"Ikko OH2"},
+            {"name":"OH10","file":"Ikko OH10"}]
+    },
+    {
+        "name":   "IMR","phones": [{"name":"Ace","file":"IMR Ace"}]
+    },
+    {
+        "name":   "ISN","phones": [
+            {"name":"H60","file":"ISN H60"},
+            {"name":"Neo 5","file":"ISN Neo 5"}]
+    },
+    {
+        "name":   "Kefine","phones": [{"name":"Delci","file":"Kefine Delci"}]
+    },
+    {
+        "name":   "Kotori","phones": [
+            {"name":"Dauntless","file":"Kotori Dauntless"},
+            {"name":"Vampire","file":["Kotori Vampire","Kotori Vampire 75ohm"],
+            "suffix":["","(75ohm Adapter)"]}]
+    },
+    {
+        "name":   "KZ","phones": [{"name":"LingLong","file":"KZ LingLong"}]
+    },
+    {
+        "name":   "MiM","phones": [
+            {"name":"Dark Magician V1","file":"MiM Dark Magician modded"},
+            {"name":"Dark Magician V1 set 2","file":"MiM DM v1 set 2"},
+            {"name":"Dark Magician V2","file":"MiM Dark Magician V2"},
+            {"name":"Dark Magician V2 set 2","file":"MiM DM v2 set 2"}]
+    },
+    {
+        "name":   "Moondrop","phones": [
+            {"name":"Blessing 3","file":"Blessing 3"},
+            {"name":"KXXS","file":"Moondrop KXXS"},
+            {"name":"SSR","file":"Moondrop SSR"}]
+    },
+    {
+        "name":   "Noble","phones": [
+            {"name":"Zephyr","file":"Noble Zephyr"}]
+    },
+    {
+        "name":   "Oriveti","phones": [
+            {"name":"Dynabird","file":"Oriveti Dynabird"},
+            {"name":"OD100","file":"Oriveti OD100"},
+            {"name":"OD200","file":["Oriveti OD200 Silver","Oriveti OD200 Black"],
+             "suffix":["(Silver Nozzle)","(Black Nozzle)"]}]
+    },
+    {
+        "name":   "Penon",
+        "phones": [
+            {"name":"Fan 2","file":"Penon Fan 2"},
+            {"name":"Quattro","file":["Quattro W1"],"suffix":["(W1 tips)"]},
+            {"name":"Serial","file":"PenonSerial",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+    {
+        "name":   "QKZ","phones": [
+            {"name":"HBB","file":"QKZ HBB"},
+            {"name":"ZXT","file":"QKZ ZXT"}]
+    },
+    {
+        "name":   "QoA","phones": [
+            {"name":"Adonis New","file":"QoA Adonis New"}
+            ]
+    },
+    {
+        "name":   "Shortbus",
+        "phones": [{"name":"Glamdring","file":["Shortbus Glamdring small tip","Shortbus Glamdring small tip deep fit","Shortbus Glamdring wide tip","Shortbus Glamdring wide tip deep fit"],
+             "suffix":["(Small bore)","(Small bore + Deep fit)","(Clarion tips)","(Clarion tips + Deep fit"]}
+        ]
+    },
+    {
+        "name":   "Shure","phones": [{"name":"SE846 diy","file":"Shure SE846 diy"}]
+    },
+    {
+        "name":   "Simgot",
+        "phones": [
+            {"name":"EA500","file":["Simgot EA500 red","Simgot EA500 black","Simgot EA500 black no foam","Simgot EA500 tanya filter"],
+             "suffix":["(Red)","(Black)","(Black no foam)","(Tanya filter)"],
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+             {"name":"EA500LM","file":["EA500LM red","EA500LM black","EA500LM gold"],
+             "suffix":["(Red)","Black","Gold"]},
+             {"name":"EA1000","file":["Simgot EA1000 red","Simgot EA1000 black","Simgot EA1000 gold","EA1000 500msh HDF"],
+             "suffix":["(Red)","(Black)","(Gold)","diy 500mesh+HDF"]},
+             {"name":"EM6L","file":"Simgot EM6L"},
+             {"name":"Supermix 4","file":["Simgot Supermix 4","Simgot Supermix 4 75ohm"],
+             "suffix":["","75ohm Adapter"]}
+        ]
+    },
+    {
+        "name":   "Sonicast",
+        "phones": [{"name":"Direm Pro II","file":["Sonicast Direm Pro II","Sonicast Direm Pro II type C"],
+             "suffix":["(Normal cable)","(Type C)"]}
+        ]
+    },
+    {
+        "name":   "Sonic Memory","phones": [{"name":"SM2 2021","file":"Sonic Memory SM2 2021"}]
+    },
+    {
+        "name":   "Soranik","phones": [{"name":"MEMS-3S","file":"Soranik MEMS-3S"}]
+    },
+    {
+        "name":   "Symphonium","phones": [{"name":"Meteor","file":"Meteor"}]
+    },
+    {
+        "name":   "Tanchjim",
+        "phones": [
+             {"name":"4U","file":["Tanchjim 4U Atmosphere","Tanchjim 4U Pop","Tanchjim 4U Natural","Tanchjim 4U Monitor"],
+             "suffix":["(Atmosphere)","(Pop)","(Natural)","(Monitor)"]},
+             {"name":"Kara","file":["Tanchjim Kara small bore","Tanchjim Kara big bore"],
+             "suffix":["(tips: bass)","(tips: treble)"],
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+             {"name":"Ola Bass","file":"Tanchjim Ola Bass"},
+             {"name":"Oxygen S1","file":["Tanchjim Oxygen","Tanchjim Oxygen Tanya filter"],
+             "suffix":["(stock)","(Tanya filter)"],
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+             {"name":"Oxygen S2","file":["Tanchjim Oxygen Black","Tanchjim Oxygen Bl Tanya","Tanchjim Oxygen S2 nofilter"],
+             "suffix":["(Black 2018)","Black 2018 (Tanya filter)","Black 2018 (filterless)"]},
+             {"name":"Oxygen S3","file":["Tanchjim Oxygen S3","Tanchjim Oxygen S3 nofilter"],
+             "suffix":["(Silver 2021)","(Silver 2021 filterless)"]},
+             {"name":"Tanya","file":["Tanya","Tanya filterless"],
+             "suffix":["","(filterless)"]},
+             {"name":"Zero","file":"Tanchjim Zero"}           
+        ]
+    },
+    {
+        "name":   "Tangzu","phones": [
+            {"name":"Waner Studio Edition","file":"Tangzu Waner SE"},
+            {"name":"Zetian Wu","file":"Zetian Wu"}
+        ]
+    },
+    {
+        "name":   "TinHiFi","phones": [{"name":"P1 Max 2","file":"P1 Max 2"}]
+    },
+     {
+        "name":   "TSMR",
+        "phones": [
+            {"name":"X","file":["TSMR X 100","TSMR X 020","TSMR X 003","TSMR X 123"],
+             "suffix":["100","020","003","123"]
+             }
+        ]
+    },
+    {
+        "name":   "ZiiGaat","phones": [
+            {"name":"Arete","file":"ZiiGaat Arete"},
+            {"name":"Doscinco","file":"Doscinco"}
+        ]
+    },
+    {
+        "name":   "Earbuds","phones": [{"name":"TGXear Totem","file":"Totem"},
+            {"name":"Lrey Aurora","file":"Aurora"},
+            {"name":"Lrey King Dragon","file":"KD"},
+            {"name":"Kobe Audio Hades 600 ","file":"Hades"},
+            {"name":"Rikubuds Saber 3","file":"Saber 3"},
+            {"name":"Yuin PK1","file":"Pk1"}]
+
+    }
+    
+]
