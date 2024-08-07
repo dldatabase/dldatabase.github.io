@@ -49,17 +49,17 @@ var init_phones = [""],                             // Optional. Which graphs to
 // Set up the watermark, based on config options above
 function watermark(svg) {
     let wm = svg.append("g")
-    	.attr("transform", "translate(" + (pad.l + W / 2) + "," + (pad.t + H * 0.15) + ")")
-    	.attr("opacity", 1.0);
+        .attr("transform", "translate("+(pad.l+W/2)+","+(pad.t+H/2-20)+")")
+        .attr("opacity",0.2);
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-150, y:-150, width:300, height:300, "xlink:href":watermark_image_url});
+            .attrs({x:-64, y:-64, width:128, height:128, "xlink:href":watermark_image_url});
     }
     
     if ( watermark_text ) {
         wm.append("text")
-            .attrs({x:290, y:230, "font-size":18, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:0, y:70, "font-size":28, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text);
         wm.append("text")
             .attrs({x:290, y:255, "font-size":18, "text-anchor":"middle", "class":"graph-name"})
