@@ -67,9 +67,9 @@ function watermark(svg) {
     }
 	 // Extra flair
     svg.append("g")
-        .attr("opacity",0.2)
+        .attr("opacity",0.7)
         .append("text")
-        .attrs({x:765, y:314, "font-size":10, "text-anchor":"end", "class":"site_name"})
+        .attrs({x:765, y:314, "font-size":14, "text-anchor":"end", "class":"site_name"})
         .text("dungle-graph.github.io/");
 }
 
